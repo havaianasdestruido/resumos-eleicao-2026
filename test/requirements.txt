@@ -1,0 +1,5 @@
+# Kernel + executor de notebooks e gráficos (sem dependência de pandas).
+matplotlib>=3.8,<4
+ipykernel>=6.29,<8
+nbclient>=0.10,<1
+nbformat>=5.10,<6
